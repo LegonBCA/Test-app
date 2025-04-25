@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalaReservationApp</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="forgot_password_link">¿Olvidaste tu contraseña?</string>
+    <string name="reserve_room_button">Reservar sala</string>
+    <string name="enter_button">Ingresar</string>
+    <string name="training_title">Capacitación</string>
+    <string name="settings_title">Configuración</string>
+    <string name="logout_button">Cerrar sesión</string>
+</resources>
